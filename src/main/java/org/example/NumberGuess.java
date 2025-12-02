@@ -1,3 +1,4 @@
+//Aidana Mamasharipova IEMIT-25
 package org.example;
 import java.util.Scanner;
 import java.util.Random;
