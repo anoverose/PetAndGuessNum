@@ -1,3 +1,4 @@
+//Aidana Mamasharipova IEMIT-25
 package org.example;
 import java.util.ArrayList;
 import java.util.Scanner;
